@@ -10,3 +10,6 @@ https://kingroon.com/blogs/3d-print-101/how-to-prepare-klipper-firmware-for-king
 
 
 https://kingroon.com/blogs/3d-print-101/how-to-use-3d-touch-on-kingroon-kp3s-pro-with-the-klipper-firmware
+
+
+https://k3d.tech/calibrations/retractions/calibrator/
